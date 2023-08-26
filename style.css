@@ -1,0 +1,66 @@
+h1
+{
+    text-align:center;
+    font-style: italic;
+    margin: 0%;
+}
+
+body
+{
+    background-color: rgb(239, 239, 168);
+
+}
+.intro
+{
+    font-size: large;
+    text-align: center;
+}
+.signin
+{
+    text-align: center;
+    margin: 0%;
+
+}
+form{
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.input
+{
+    font-size: large;
+    border-radius: 30px;
+}
+.proj2
+{
+    background-color: rgb(247, 188, 79);
+}
+.head
+{
+    font-style: oblique;
+    text-align: center;
+}
+.para
+{
+    color:rgb(0, 0, 0);
+    font-size: medium;
+}
+.divin
+{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+a
+{
+    text-decoration: none;
+}
+.inner
+{
+    display: inline;
+    margin-left: 10%;
+}
+.inner2
+{
+    display: inline;
+    margin-left: 10%;
+}
